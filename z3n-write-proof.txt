@@ -1,1 +1,0 @@
-Written using a GitHub PAT stolen from Databricks via the Lakeflow community-connector SSRF. 2026-11-13.
